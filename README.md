@@ -29,3 +29,9 @@ https://medium.com/@mikael.barbero/chromium-eclipse-swt-integration-c61f416e97d1
 ## Donations
 
 We need funding to complete this work and the **Eclipse Foundation** is accepting donations to make it happen as part of Eclipse and with the EPL. If you think your company is interested in and can help, please contact us (guillez@gmail.com).
+
+## Support
+
+If you need (paid) consultancy or support for having the widget integrated into your app, contact us (Make Technology, http://www.wemaketechnology.com) at guillez@gmail.com. 
+
+We're offering early support for the widget and consultancy. Note that it will be open source anyway.
